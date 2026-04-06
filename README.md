@@ -1,6 +1,6 @@
 # CORENOW Website
 
-Firmenwebsite der CORENOW GbR — mehrsprachiger PHP-Onepager mit integriertem Insights-Blog und Admin-Panel.
+Firmenwebsite von CORENOW Software-Lösungen — mehrsprachiger PHP-Onepager mit integriertem Insights-Blog und Admin-Panel.
 
 ## Stack
 
