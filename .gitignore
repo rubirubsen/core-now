@@ -1,0 +1,17 @@
+# Credentials – niemals committen
+admin/config.php
+
+# Hochgeladene Bilder (werden auf dem Server gespeichert)
+assets/img/insights/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
