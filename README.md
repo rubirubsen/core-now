@@ -1,6 +1,6 @@
 # CORENOW Website
 
-Firmenwebsite von CORENOW Software-Lösungen — mehrsprachiger PHP-Onepager mit integriertem Insights-Blog und Admin-Panel.
+Firmenwebsite von [CORENOW](https://core-now.com) Software-Lösungen — mehrsprachiger PHP-Onepager mit integriertem Insights-Blog und Admin-Panel.
 
 <img width="1904" height="933" alt="grafik" src="https://github.com/user-attachments/assets/c7899664-7f44-4549-b3c5-c6de2be295a0" />
 
